@@ -1,0 +1,7 @@
+body {
+	font-family: "Fira Code", "Courier New", Courier, monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
